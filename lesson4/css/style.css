@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+
+    background: blue;
+    height: 752px;
+    width: 1116px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-image: url(img/img1.jpg);
+    color: white;
+    
+    
+}
+.container-Америка{
+    height: 376px;
+    width: 372px;
+    background: #10466db0;
+    
+  
+}
+.container-zero{
+    height: 376px;
+    width: 372px;
+    background: #10466db0;
+    
+}
+.container-Европа{
+    height: 376px;
+    width: 372px;
+    background: #94153bb0;
+    
+}
+.container-Африка{
+    height: 376px;
+    width: 372px;
+    background: #c0cc1db0;
+}
+.container-Азия{
+    height: 376px;
+    width: 372px;
+    background: #e21d1db0;
+}
+.container-Австралия{
+    height: 376px;
+    width: 372px;
+    background: #e0851db0;
+    
+}
+.title{
+  
+    text-align: center;
+    font-size: 34px;
+    padding: 18px;
+    
+}
+.container-body{
+    background-color: rgba(0, 0, 0, 0.233);
+    height: 260px;
+    width: 320px;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+.name__citi{
+    margin-left: 90px;
+    padding: 20px;
+    font-size: 24px;
+}
+.name__citi-town{
+    font-size: 20px;
+    margin: 35px 0px 25px 20px;
+}
+.flag{
+    position: absolute;
+    width: 100px;
+    height: 60px;
+}
+.flag__town {
+    width: 60px;
+    height: 35px;
+    margin-bottom: 12px;
+    
+}
+.container-body__sities{
+    width: 180px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 0px 20px 20px;
+}
+.name__towns{
+    margin-left: 5px;
+    
+}
